@@ -1,0 +1,11 @@
+{
+  "name": "01-read-file",
+  "version": "1.0.0",
+  "description": "In the file `index.js` within the directory `01-read-file`, develop a script that outputs the contents of the file `text.txt` to the console.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
