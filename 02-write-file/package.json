@@ -1,0 +1,11 @@
+{
+  "name": "02-write-file",
+  "version": "1.0.0",
+  "description": "In the `index.js` file in the `02-write-file` directory, develop a script that outputs a greeting to the console, waits for text input, and writes the entered text to a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
