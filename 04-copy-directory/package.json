@@ -1,0 +1,11 @@
+{
+  "name": "04-copy-directory",
+  "version": "1.0.0",
+  "description": "In the `index.js` file of the `04-copy-directory` folder, implement the `copyDir` function, which copies the contents of the files folder to the `files-copy` folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
