@@ -1,0 +1,11 @@
+{
+  "name": "03-files-in-folder",
+  "version": "1.0.0",
+  "description": "In the `index.js` file of the `03-files-in-folder` directory, develop a script that outputs information about files contained in the `secret-folder` to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
